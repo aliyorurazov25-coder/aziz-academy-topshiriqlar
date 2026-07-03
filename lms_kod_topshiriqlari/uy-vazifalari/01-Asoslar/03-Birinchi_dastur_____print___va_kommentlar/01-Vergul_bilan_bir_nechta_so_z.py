@@ -1,0 +1,1 @@
+print("Pytho juda kuchli til")
