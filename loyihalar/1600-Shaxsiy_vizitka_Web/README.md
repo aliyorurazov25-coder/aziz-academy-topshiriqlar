@@ -1,0 +1,6 @@
+print("=" * 40) 
+print("  ISM: Alisher Valiyev") 
+print("  KASB: Python dasturchisi") 
+print("  EMAIL: alisher@example.com") 
+print("  TEL: +998 90 123 45 67") 
+print("=" * 40)

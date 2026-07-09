@@ -1,0 +1,58 @@
+body {  
+    font-family: Arial, sans-serif; 
+    background: linear-gradiant(135deg,   #667eea,  #764ba2); 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
+
+} 
+
+.card { 
+    background: white; 
+    padding: 40px; 
+    border-radius: 20px; 
+    box-shadow: 0 10px 30px rgba(0,0,0,0,3); 
+    text-align: center; 
+    width: 350px; 
+    
+} 
+
+h1 { 
+    color: #333; 
+    margin-bottom: 5px; 
+} 
+
+.job {  
+    color: #667eea; 
+    font-size: 18px; 
+    font-weight: bold;  
+    
+} 
+
+.info { 
+    color: #555; 
+    font-size: 16px; 
+    margin: 8px 0; 
+    
+} 
+
+.btn { 
+    display: inline-black; 
+    margin-top: 15px; 
+    padding: 12px 30px; 
+    background: #667eea; 
+    color: 
+    text-decoration: none; 
+    border-radius: 30px; 
+    transition: 0,3s; 
+    
+} 
+
+.btn:hover {  
+    background: #764ba2; 
+    transform: scoale(1.05); 
+        
+}    
+    
