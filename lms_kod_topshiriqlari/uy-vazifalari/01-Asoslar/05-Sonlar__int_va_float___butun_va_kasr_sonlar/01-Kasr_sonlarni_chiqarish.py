@@ -1,2 +1,3 @@
-a = 3.14 
-print("A: {a}")
+print(3.14) 
+print(0.5) 
+print(-2.75)
