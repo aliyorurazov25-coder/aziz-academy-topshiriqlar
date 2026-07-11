@@ -1,4 +1,4 @@
 a = 6 
 b = 3 
-print(a * b) 
-print(a / b)
+print("Ko'paytma:", a * b) 
+print("Bo'linma:", a / b)
