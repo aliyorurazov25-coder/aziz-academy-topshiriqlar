@@ -1,1 +1,2 @@
-print("True not False")
+print(not True) 
+print(not False)
